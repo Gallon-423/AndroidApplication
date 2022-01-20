@@ -3,4 +3,8 @@
     <string name="first">First</string>
     <string name="second">Second</string>
     <string name="third">Third</string>
+    <string name="中间">中间</string>
+    <string name="左边">左边</string>
+    <string name="左上角">左上角</string>
+    <string name="我是中间的右边">我是中间的右边</string>
 </resources>

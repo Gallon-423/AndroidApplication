@@ -8,13 +8,13 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="2"
-        android:text="@string/first" />
+        android:text="@string/first"/>
 
     <Button
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="2"
-        android:text="@string/second" />
+        android:text="@string/second"/>
 
     <Button
         android:layout_width="0dp"
